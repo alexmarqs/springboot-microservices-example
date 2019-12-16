@@ -4,7 +4,8 @@ This is a simple example of how you can create microservices using SpringBoot wi
 - [x] Spring Boot for the microservices projects
 - [x] API Gateway based on Netflix Zuul
 - [x] Service Discovery Server based on Spring Eureka
-- [ ] Add data layer to the microservices (repositories integration)
+- [ ] Spring Cloud LoadBalancer to provide client-side load-balancing in calls to another microservice
+- [ ] Add Circuit Breaker (Netflix Hystrix)
 - [ ] Docker integration
 
 ### System requirements
