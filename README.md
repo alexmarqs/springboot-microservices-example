@@ -6,6 +6,7 @@ This is a simple example of how you can create microservices using SpringBoot wi
 - [x] Service Discovery Server based on Spring Eureka
 - [ ] Spring Cloud LoadBalancer to provide client-side load-balancing in calls to another microservice
 - [ ] Add Circuit Breaker (Netflix Hystrix)
+- [ ] Http Client Feign to synchronous communication between microservices
 - [ ] Docker integration
 
 ### System requirements
