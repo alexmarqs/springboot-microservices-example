@@ -1,4 +1,4 @@
-## Microservices + SpringBoot + SpringCloud + Netflix OSS *(work in progress)*
+## Microservices + SpringBoot + SpringCloud + Netflix OSS
 This is a simple example of how you can create microservices using SpringBoot with SpringCloud and Netflix OSS.
 
 - [x] Spring Boot for the microservices projects
